@@ -1,6 +1,6 @@
 # **HELLO WORLD 👋**
 
-_Je suis KIAN JEAN-MARIE, mais tu peux m'appeler B. Royce. Je vis actuellement en Côte d'Ivoire et je suis UX/UI Designer, Développeur Front-End et Créateur Digital._
+_Je suis KIAN JEAN-MARIE, mais tu peux m'appeler B. Royce. Je vis actuellement en Côte d'Ivoire et je suis UX/UI Designer, Développeur Fullstack et Créateur Digital._
 
 ---
 
